@@ -1,0 +1,25 @@
+baseURL = 'https://collinkleest.com'
+languageCode = 'en-us'
+title = 'Collin Kleest'
+theme = "awesome-identity"
+
+
+## Contacts Configurations
+[params.contacts]
+  email = "collinkleest@gmail.com"
+  github = "collinkleest"
+#   gitlab = "john.smith"
+#   twitter = "john.smith"
+#   facebook = "john.smith"
+  linkedin = "collinkleest"
+#   instagram = "john.smith"
+#   stackoverflow = "7919458"
+#   keybase = "john.smith"
+#   medium = "john.smith"
+#   xing = "john.smith"
+
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2022 Collin Kleest. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = true
