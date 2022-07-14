@@ -1,8 +1,45 @@
 baseURL = 'https://www.collinkleest.com'
 languageCode = 'en-us'
-title = 'Collin Kleest'
+title = "Collin Kleest - Software Engineer"
 theme = "awesome-identity"
 
+# Content without language indicator will default to this language
+defaultContentLanguage = "en"
+
+# Enable Emoji emoticons support for page content
+enableEmoji = true
+
+# Update the `Lastmod` parameter for each page using the last git commit date for that content file
+enableGitInfo = true
+
+## Meta Configurations (HTTP Meta tags & OpenGraph)
+[params.meta]
+  description = "Software Engineer at Vanguard"
+  keywords = "collinkleest, ckleest, ckk, collin, kleest, sde, devops, backend, infrastructure, hacker, engineer, developer, architect"
+  images = [
+    "/images/profile.jpg"
+  ]
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/cropped_headshot.jpg"
+  firstname = "Collin"
+  lastname = "Kleest"
+  title = "Software Engineer"
+  bio = """Hello I'm Collin Kleest, I am currently Software Engineer at Vanguard.
+  I began my programming journey when I was a senior in highschool. My interest was peaked and the rest is history. 
+  I have over 1 years of experience in full time software engineering and 3 years of internships at multiple companies. 
+  I specialize in backend development and DevOps (CI/CD) and have a fair bit of frontend development experience.
+  I enjoy solving challening problems that put my brain to work. Outside of work I love to workout, ski, golf, watch sports
+  and enjoy quality time with friends and family.
+  
+  As I was an engineer on a Platform as a Service team I have a lot of experience with cloud native tecnhologies
+  and servless architetures. Most of my cloud experience has been with Amazon Web Services and a little bit of experience
+  on the Google Cloud Platform.
+  My favorite aspect of working in software is how fast the field moves and staying on my toes by learning new things.
+  Feel free to contact me by reaching out on linkedin or via email, I also have my github linked below if you want to look
+  at some of my personal projects!
+  """
 
 ## Contacts Configurations
 [params.contacts]
@@ -18,6 +55,17 @@ theme = "awesome-identity"
 #   medium = "john.smith"
 #   xing = "john.smith"
 
+
+## Actions Configurations
+[[params.actions]]
+  name = "Review My Resume"
+  url = "https://github.com/collinkleest/collinkleest-cv/blob/master/examples/resume.pdf"
+[[params.actions]]
+  name = "Favorite Playlist"
+  url = "https://open.spotify.com/playlist/35WSJSK3yMG8eaIXeRpkHQ?si=4681f38c80874a6f"
+# [[params.actions]]
+#   name = "Buy Me a Coffee"
+#   url = "https://buymeacoff.ee/posquit0"
 
 ## Footer Configurations
 [params.footer]
