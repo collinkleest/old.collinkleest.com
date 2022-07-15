@@ -26,19 +26,18 @@ enableGitInfo = true
   firstname = "Collin"
   lastname = "Kleest"
   title = "Software Engineer"
-  bio = """Hello I'm Collin Kleest, I am currently Software Engineer at Vanguard.
-  I began my programming journey when I was a senior in highschool. My interest was peaked and the rest is history. 
-  I have over 1 year of experience in full time software engineering and 3 years of internships at multiple companies. 
+  bio = """Hello, I’m Collin Kleest, I am currently Software Engineer at Vanguard.
+  I began my programming journey when I was a senior in high school.
+  My interest was peaked and the rest is history.
+  I have over 1 year of experience in full-time software engineering and 3 years of internships at multiple companies.
   I specialize in backend development and DevOps (CI/CD) and have a fair bit of frontend development experience.
-  I enjoy solving challening problems that put my brain to work. Outside of work I love to workout, ski, golf, watch sports
-  and enjoy quality time with friends and family.
+  I enjoy solving challenging problems that put my brain to work. 
+  Outside of work I love to work out, ski, golf, watch sports and enjoy quality time with friends and family.
   
-  As I was an engineer on a Platform as a Service team I have a lot of experience with cloud native tecnhologies
-  and servless architetures. Most of my cloud experience has been with Amazon Web Services and a little bit of experience
-  on the Google Cloud Platform.
-  My favorite aspect of working in software is how fast the field moves and staying on my toes by learning new things.
-  Feel free to contact me by reaching out on linkedin or via email, I also have my github linked below if you want to look
-  at some of my personal projects!
+  As I was an engineer on a Platform as a Service team I have a lot of experience with cloud-native technologies and serverless architecture. 
+  Most of my cloud experience has been with Amazon Web Services and a little bit of experience on the Google Cloud Platform.
+  My favorite aspect of working in software is how fast the field moves and staying on my toes by learning new things. 
+  Feel free to contact me by reaching out on Linkedin or via email, I also have my GitHub linked below if you want to look at some of my personal projects!
   """
 
 ## Contacts Configurations
